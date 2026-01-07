@@ -1,0 +1,5 @@
+{
+  "name": "Log - Intelligent Planner",
+  "description": "A minimalist personal planner that aligns your schedule with your natural rhythm. It uses temporal analysis to offer subtle guidance on timing and approach.",
+  "requestFramePermissions": []
+}
